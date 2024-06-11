@@ -1,0 +1,5 @@
+ Your Task
+1. Write assembly language to show the first and last element of an Array.
+2. Write assembly language to perform the summation of the elements of an Array.
+3. Write assembly language to reverse an Array.
+4. Write assembly language to find the largest element of an Array.

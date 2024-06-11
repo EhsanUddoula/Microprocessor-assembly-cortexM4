@@ -1,0 +1,11 @@
+1.Write an assembly language to perform all the arithmetic operations
+(Addition, Subtraction and Multiplication ) on two variables. You
+don’t have to handle overflow. Two modes of operations:
+
+  1) In this case, you will put the data in memory in the form of constants before
+the program runs.
+  2) You first use the load register, LDR r4,X instruction to load register r4 with
+the contents of memory location.
+
+
+2.Find the smaller of two integer numbers.

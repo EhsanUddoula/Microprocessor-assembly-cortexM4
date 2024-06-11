@@ -1,0 +1,2 @@
+Write an assembly language to perform all the logical operations
+(AND,OR,NOR,NAND,XOR,XNOR) on two 16-bit variables.

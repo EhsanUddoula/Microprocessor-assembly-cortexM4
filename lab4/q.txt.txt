@@ -1,0 +1,21 @@
+Your Task
+
+• Write assembly language to perform all the shift operations (LSR, ASR, LSL) on a
+32-bit variable.
+
+• Write assembly language to perform a simple Boolean operation to calculate the bitwise
+calculation of F = W.X + Y.Z
+
+• Suppose we have three words P, Q and R. We are going to apply logical operations
+to subfields (bit fields) of these registers. We’ll use 16-bit arithmetic for simplicity.
+Suppose that we have three 6-bit bit fields in Q, R, and R as illustrated below. The
+bit fields are in red and are not in the same position in each word. A bit field is a
+consecutive sequence of bits that forms a logic entity. Often they are data fields packed
+in a register, or they may be graphical elements in a display (a row of pixels). However,
+the following example demonstrates the type of operation you may have to perform on
+bits.
+P=p15p14 p13 p12 p11 p10 p9 p8 p7 p6 p5 p4 p3 p2 p1 p0 = 0010000011110010
+Q = q15 q14 q13 q12 q11 q10 q9 q8 q7 q6 q5 q4 q3 q2 q1 q0 = 0011000011110000
+R = r15 r14 r13 r12 r11 r10 r9 r8 r7 r6 r5 r4 r3 r2 r1 r0 = 1100010011111000
+Write assembly language to calculate F = (P + Q ⊕ R).111110 using the three 6-
+bit bit fields.
